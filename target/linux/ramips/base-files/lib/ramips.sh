@@ -116,6 +116,9 @@ ramips_board_name() {
 	*"La Fonera 2.0N")
 		name="fonera20n"
 		;;
+	*"HuaWei HG255D")
+		name="hg255d"
+		;;
 	*"MoFi Network MOFI3500-3GN")
 		name="mofi3500-3gn"
 		;;
